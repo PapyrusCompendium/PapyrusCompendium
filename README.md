@@ -1,5 +1,5 @@
 # Papyrus Compendium
-Hello, I am a security conscious software developer. I have been learning software development since 2008. I mostly work in .Net software, but sometimes I will work in other languages depending on the project type. I strive for readability and I am always learning new ways to make my code look clearer to anyone who may read it. I enjoy learning and I am always learning new things. Check out some of my repos, I make lots of cool things, from steganography to neural networking.
+Hello, I am a professional, and security conscious software developer. I have been learning software development since 2013. I mostly work in .Net software, but sometimes I will work in other languages depending on the project type. I strive for readability and code efficiency. I enjoy learning, and I strive to always write even more bullet proof code each time. I see a very high amount of value in unit testing my code. I have professional working experience with the Azure platform using many of it’s services including but not limited to Machine Learning, Azure Key Vault, Azure Functions, Azure Kubernetes Service, Devops (boards, git, and wiki+), Azure App service deployments(front end), Azure AD, and Azure SQL.
 
  - [x] Papyrus, Egyptian paper.
  - [x] Compendium, a repository of concise but detailed information.
