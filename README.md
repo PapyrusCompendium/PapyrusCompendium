@@ -5,7 +5,7 @@ Hello, I am a professional, and security conscious software developer. I have be
  - [x] Compendium, a repository of concise but detailed information.
 
 ## Website
-Check out my web site http://papyruscompendium.dev/  
+Check out my web site https://papyruscompendium.dev/  
 The source is also available on my github!
 
 <!--
