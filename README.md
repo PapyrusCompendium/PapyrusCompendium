@@ -1,7 +1,7 @@
 # Papyrus Compendium 👋
-I am a dedicated and security-conscious software developer with a career spanning back to 2013. My primary focus lies within the .Net software domain, although I am adaptable and proficient in multiple programming languages depending on the specific project requirements.
-I am deeply committed to enhancing code readability and optimizing its efficiency, perpetually striving to achieve the highest standard of resilience in my programming endeavors. I place a substantial emphasis on the practice of unit testing, recognizing its significant contribution to the overall quality of the codebase.
-I possess extensive professional experience with the Microsoft Azure platform, having worked with a multitude of its services, including but not limited to Machine Learning, Azure Key Vault, Azure Functions, Azure Kubernetes Service, DevOps (comprising boards, Git, and Wiki+), Azure App Service deployments (primarily for front-end applications), Azure Active Directory, and Azure SQL.
+I am a dedicated and security-conscious software developer with a career spanning back to 2013. My primary focus lies within the .Net software domain, although I am adaptable and proficient in multiple programming languages depending on the specific project requirements.  
+I am deeply committed to enhancing code readability and optimizing its efficiency, perpetually striving to achieve the highest standard of resilience in my programming endeavors. I place a substantial emphasis on the practice of unit testing, recognizing its significant contribution to the overall quality of the codebase.  
+I possess extensive professional experience with the Microsoft Azure platform, having worked with a multitude of its services, including but not limited to Machine Learning, Azure Key Vault, Azure Functions, Azure Kubernetes Service, DevOps (comprising boards, Git, and Wiki+), Azure App Service deployments (primarily for front-end applications), Azure Active Directory, and Azure SQL.  
 
 Kind regards,
 
