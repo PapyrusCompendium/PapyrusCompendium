@@ -1,5 +1,9 @@
 # Papyrus Compendium 👋
-Hello, I am a professional, and security conscious software developer. I have been learning software development since 2013. I mostly work in .Net software, but sometimes I will work in other languages depending on the project type. I strive for readability and code efficiency. I enjoy learning, and I strive to always write even more bullet proof code each time. I see a very high amount of value in unit testing my code. I have professional working experience with the Azure platform using many of it’s services including but not limited to Machine Learning, Azure Key Vault, Azure Functions, Azure Kubernetes Service, Devops (boards, git, and wiki+), Azure App service deployments(front end), Azure AD, and Azure SQL.  
+I am a dedicated and security-conscious software developer with a career spanning back to 2013. My primary focus lies within the .Net software domain, although I am adaptable and proficient in multiple programming languages depending on the specific project requirements.
+I am deeply committed to enhancing code readability and optimizing its efficiency, perpetually striving to achieve the highest standard of resilience in my programming endeavors. I place a substantial emphasis on the practice of unit testing, recognizing its significant contribution to the overall quality of the codebase.
+I possess extensive professional experience with the Microsoft Azure platform, having worked with a multitude of its services, including but not limited to Machine Learning, Azure Key Vault, Azure Functions, Azure Kubernetes Service, DevOps (comprising boards, Git, and Wiki+), Azure App Service deployments (primarily for front-end applications), Azure Active Directory, and Azure SQL.
+
+Kind regards,
 
 ## Website 🔗
 Check out my web site https://papyruscompendium.dev/  
