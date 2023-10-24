@@ -5,10 +5,6 @@ I possess extensive professional experience with the Microsoft Azure platform, h
 
 Kind regards,
 
-## Website 🔗
-Check out my web site https://papyruscompendium.dev/  
-The source is also available on my github!  
-
 ## Stats 📈
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PapyrusCompendium&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)  
 
